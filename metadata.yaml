@@ -1,0 +1,32 @@
+_repo: Unser-taglich-Gift-Gedichte_52183
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krzyzanowski, Otfried
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '46712'
+    url: http://www.gutenberg.org/2009/agents/46712
+description: ''
+gutenberg_issued: '2016-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52183'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+- GITenberg
+tableOfContents: Phantasia desperans -- Frage -- Cantate -- Abend -- Erfüllung --
+  Es gibt doch Süße -- Ballade -- Unlust -- Werbung -- Spät nachts -- Geständnis --
+  Erinnerung -- Morgenträume -- Melancholie -- Unmut -- Der Einsame -- Der Individualist
+  -- Abend -- Tanzlied -- Morgen -- Sorge -- Erwachen bei der Geliebten -- Wunsch
+  -- Freude -- Weinlied -- Aristogeiton -- Zweifel -- Klage um den Wein -- Elend --
+  Ernüchterung -- Ästhetik des Kriegs -- Herbst -- Stimmen -- Reue des Dichters --
+  Lied der Helden -- Der Untaugliche -- Der Trinker auf dem Schlachtfeld -- Ruf --
+  Bekenntnis -- Mahnung -- Abschied.
+title: 'Unser täglich Gift: Gedichte'
+url: http://www.gutenberg.org/ebooks/52183
